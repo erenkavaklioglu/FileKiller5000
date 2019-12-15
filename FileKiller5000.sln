@@ -7,6 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileKiller5000", "FileKille
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{9CBDF2A0-0F25-44D5-9A62-918802515535}"
 	ProjectSection(SolutionItems) = preProject
+		Documents\FileKiller.zip = Documents\FileKiller.zip
 		Documents\Readme.docx = Documents\Readme.docx
 		Documents\WFM Registry.png = Documents\WFM Registry.png
 		Documents\WFM Service.png = Documents\WFM Service.png
